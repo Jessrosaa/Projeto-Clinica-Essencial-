@@ -6,7 +6,7 @@ Aplicativo desenvolvido para solucionar problemas operacionais de uma clínica m
 
 ## 🎥 Demonstração
 
-[▶️ Assistir demonstração do projeto](COLE_AQUI_O_LINK_DA_VERCEL)
+[▶️ Assistir demonstração do projeto](projeto-clinica-essencial.vercel.app)
 
 ---
 
